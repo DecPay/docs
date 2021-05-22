@@ -46,7 +46,7 @@ module.exports = {
                         link: 'https://app.decpay.finance',
                     },
                     {
-                        text: '开始',
+                        text: '教程',
                         link: '/zh-CN/started/get-started.md'
                     },
                     {
