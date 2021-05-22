@@ -17,4 +17,7 @@
 | Token | Decimals | Address |
 | --- | --- | --- |
 | `HUSD` | 8 | 0x0298c2b32eae4da002a15f36fdf7615bea3da047 |
-| `DAI` | 18 | 0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a |
+| `DAI-HECO` | 18 | 0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a |
+| `USDC-HECO` | 18 | 0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b |
+| `HBTC` | 18 | 0x66a79d23e58475d2738179ca52cd0b41d73f0bea |
+| `WBTC` | 18 | 0x70d171d269d964d14af9617858540061e7be9ef1 |
