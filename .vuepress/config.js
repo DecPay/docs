@@ -24,14 +24,45 @@ module.exports = {
                 label: 'English',
                 selectText: 'Languages',
                 nav: [
-                    // {
-                    //     text: 'Guide',
-                    //     link: '/guide/'
-                    // },
+                    {
+                        text: 'Site',
+                        link: 'https://decpay.finance',
+                    },
+                    {
+                        text: 'Dashboard',
+                        link: 'https://app.decpay.finance',
+                    },
+                    {
+                        text: 'Guides',
+                        link: '/en/started/get-started.md'
+                    },
+                    {
+                        text: 'API',
+                        link: '/en/api/DecPay.md'
+                    }
                 ],
-                sidebar: {
-
-                }
+                sidebar: [
+                    {
+                        title: 'Guides',
+                        collapsable: false,
+                        children: [
+                            '/en/started/get-started.md',
+                            '/en/started/currency-converter.md',
+                            '/en/started/polling-result.md'
+                        ]
+                    },
+                    {
+                        title: 'Networks',
+                        collapsable: false,
+                        children: [
+                            '/en/networks/bsc-mainnet.md',
+                            '/en/networks/heco-mainnet.md',
+                            '/en/networks/ropsten-test.md',
+                            '/en/networks/bsc-test.md',
+                            '/en/networks/heco-test.md',
+                        ]
+                    }
+                ]
             },
             '/zh-CN/': {
                 label: '简体中文',

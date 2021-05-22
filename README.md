@@ -4,7 +4,7 @@ heroImage: /images/logo.png
 heroText: DecPay
 tagline: A decentralized payment solution
 actionText: Get started
-actionLink: /en/started
+actionLink: /en/started/get-started
 features:
 - title: Decentralized
   details: Decentralization based on Ethereum
