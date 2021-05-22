@@ -68,6 +68,8 @@ module.exports = {
                         title: '网络',
                         collapsable: false,
                         children: [
+                            '/zh-CN/networks/bsc-mainnet.md',
+                            '/zh-CN/networks/heco-mainnet.md',
                             '/zh-CN/networks/ropsten-test.md',
                             '/zh-CN/networks/bsc-test.md',
                             '/zh-CN/networks/heco-test.md',
