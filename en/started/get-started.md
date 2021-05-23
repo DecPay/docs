@@ -15,7 +15,7 @@ Please click on the link [DecPay Application Manager](https://app.decpay.finance
 
 ### Exchange rate conversion
 
-Before using DecPay, you also need to prepare an interface service for exchange rate conversion, which can convert your base currency amount to Token currency amount. For example, if your user creates a new order with a total amount of $100 and the user chooses to pay with ETH, then you need to convert $100 to n ETH. e.g. $100 to 0.01 ETH. For the implementation of the exchange rate conversion, we have given several options here [exchange rate conversion](. /exchangerate.md).
+Before using DecPay, you also need to prepare an interface service for exchange rate conversion, which can convert your base currency amount to Token currency amount. For example, if your user creates a new order with a total amount of $100 and the user chooses to pay with ETH, then you need to convert $100 to n ETH. e.g. $100 to 0.01 ETH. For the implementation of the exchange rate conversion, we have given several options here [exchange rate conversion](./currency-converter.md).
 
 
 ### Jump to DecPay cashier
