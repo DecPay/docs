@@ -7,12 +7,12 @@
 | --- | --- |
 | chainID | `56` |
 | DecPay Contract Address | [0x357a2a4409E4D69fA86BCb482676a85a72b197f6](https://bscscan.com/address/0x357a2a4409E4D69fA86BCb482676a85a72b197f6) |
-| Cashier URL | `https://payment.decpay.finance` |
+| Cashier URL | `https://bsc-payment.decpay.finance` |
 | Token | `BNB` |
 | decimals | `18` |
 
 
-### Tokens
+### Support Tokens
 
 | Token | Decimals | Address |
 | --- | --- | --- |

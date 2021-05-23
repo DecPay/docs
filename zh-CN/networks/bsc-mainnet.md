@@ -7,12 +7,12 @@
 | --- | --- |
 | chainID | `56` |
 | DecPay 合约地址 | [0x357a2a4409E4D69fA86BCb482676a85a72b197f6](https://bscscan.com/address/0x357a2a4409E4D69fA86BCb482676a85a72b197f6) |
-| 收银台地址 | `https://payment.decpay.finance` |
+| 收银台地址 | `https://bsc-payment.decpay.finance` |
 | 基础支付代币 | `BNB` |
 | decimals | `18` |
 
 
-### Token代币支付
+### 支持的Tokens
 
 | Token | Decimals | Address |
 | --- | --- | --- |

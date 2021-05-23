@@ -57,9 +57,7 @@ module.exports = {
                         children: [
                             '/en/networks/bsc-mainnet.md',
                             '/en/networks/heco-mainnet.md',
-                            '/en/networks/ropsten-test.md',
-                            '/en/networks/bsc-test.md',
-                            '/en/networks/heco-test.md',
+                            '/en/networks/ropsten-test.md'
                         ]
                     }
                 ]
@@ -101,9 +99,7 @@ module.exports = {
                         children: [
                             '/zh-CN/networks/bsc-mainnet.md',
                             '/zh-CN/networks/heco-mainnet.md',
-                            '/zh-CN/networks/ropsten-test.md',
-                            '/zh-CN/networks/bsc-test.md',
-                            '/zh-CN/networks/heco-test.md',
+                            '/zh-CN/networks/ropsten-test.md'
                         ]
                     }
                 ]
